@@ -1,0 +1,8 @@
+id,titre,description,service,date
+1,Panne serveur,Le serveur est tombé,IT,2023-06-15
+2,Erreur logicielle,Bug dans le logiciel,DEV,2022-03-10
+3,Incident réseau,Perte de connexion,IT,2023-07-21
+4,Incident matériel,Disque dur HS,IT,2022-12-02
+5,Mise à jour,Système obsolète,DEV,2023-01-05
+6,Incident sécurité,Accès non autorisé,SECURITY,2021-11-17
+7,Panne électrique,Coupure de courant,MAINTENANCE,2023-08-01
